@@ -39,3 +39,9 @@ Bu proje, yazılım geliştirme laboratuvarı dersi için yapılmış AR (Augmen
 - [Unity Başlangıç Öğrenim Kiti](https://learn.unity.com/tutorial/january-18-intro-to-ar)
 
 - [Unity Kamera Yapılandırması](https://developers.google.com/ar/develop/unity-arf/camera-configs?hl=tr)
+
+<h2>DİKKAT</h2>
+
+NOT: (Projeyi çalıştırmak için depoyu Zip Formatında indirdikten sonra Unity'de <b>Proje Aç<b> kısmından indirdiğiniz projeyi seçerek çalıştırabilirsiniz.
+Uygulamayı denemek için android bir cihaca apk dosyasını indirebilirisniz.)
+NOT2:(Unity'nin 2022.3.13f1 sürümü kullanılmıştır.)
