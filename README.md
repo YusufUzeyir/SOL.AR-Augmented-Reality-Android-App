@@ -3,13 +3,13 @@
 
 Bu proje, yazılım geliştirme laboratuvarı dersi için yapılmış AR (Augmented Reality) teknolojisi ve Google Arore eklentisi kullanan android tabanlı bir mobil uygulamadır.
 
-<h2>Uygulama ekran görüntüleri.↙️</h2>
+<h2>Uygulama ekran görüntüleri↙️</h2>
 
 
 ![photo_2023-11-21_15-27-08](https://github.com/YusufUzeyir/SOL.AR-Augmented-Reality-Android-App/assets/92249669/90393bd1-c698-4c59-a3ee-926b671bbd44)![photo_2023-11-21_15-27-04](https://github.com/YusufUzeyir/SOL.AR-Augmented-Reality-Android-App/assets/92249669/3a30d087-443a-4ff6-8f0f-b0e9e369806a)![photo_2023-11-21_15-27-01](https://github.com/YusufUzeyir/SOL.AR-Augmented-Reality-Android-App/assets/92249669/7ad88fe4-2faf-45db-b1dc-66d98b8727fc)![photo_2023-11-21_15-26-56](https://github.com/YusufUzeyir/SOL.AR-Augmented-Reality-Android-App/assets/92249669/f2be289f-37a9-429f-a030-c019dfa78e63)
 
 <br>
-<h2>Uygulama ekran görüntülerinin açıklanması ve genel uygulama işleyişi.↙️</h2>
+<h2>Uygulama ekran görüntülerinin açıklanması ve genel uygulama işleyişi↙️</h2>
 
 🖊️-Sırasıyla uygulama ekran görüntülerindne bahsetmek gerekirse 1.Görüntü uygulamaya giriş yaptığınızda sizi karşılayan "Ana Ekran" kısmı. Burada 8 gezegen bir de tüm güneş sisteminin resimi bulunmakta. Bunlara tıklandığında ilgili sayfalara yönlendirme sağlanıyor.
 
@@ -19,5 +19,5 @@ Bu proje, yazılım geliştirme laboratuvarı dersi için yapılmış AR (Augmen
 
 🖊️-4. sıradaki resimde tüm güneş sisteminin 3 boyutlu ve animasyonlu bir modeli gösterilmiştir. Her gezegene click eventi atanmış ve tıklanınca ilgili gezegenin sayfasına yönelndirilmesi sağlanmıştır.
 
-<h2>Uygulama akış şeması bu şekildedir.⬇️</h2>
+<h2>Uygulama akış şeması bu şekildedir↙️</h2>
 
