@@ -42,6 +42,6 @@ Bu proje, yazılım geliştirme laboratuvarı dersi için yapılmış AR (Augmen
 
 <h2>DİKKAT</h2>
 
-NOT: (Projeyi çalıştırmak için depoyu Zip Formatında indirdikten sonra Unity'de <b>Proje Aç<b> kısmından indirdiğiniz projeyi seçerek çalıştırabilirsiniz.
-Uygulamayı denemek için android bir cihaca apk dosyasını indirebilirisniz.)
-NOT2:(Unity'nin 2022.3.13f1 sürümü kullanılmıştır.)
+NOT: (Projeyi çalıştırmak için depoyu Zip Formatında indirdikten sonra Unity'de <b>Proje Aç</b> kısmından indirdiğiniz projeyi seçerek çalıştırabilirsiniz.
+Uygulamayı denemek için android bir cihaca apk dosyasını indirebilirisniz.)<br>
+NOT-2:(Unity'nin 2022.3.13f1 sürümü kullanılmıştır.)
