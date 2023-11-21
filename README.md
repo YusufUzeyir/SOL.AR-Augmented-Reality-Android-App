@@ -4,4 +4,6 @@
 
 Deneme yazısı
 
-Caption: Your caption text here
+<br>
+
+Bu bir deneme yazısıdır.
