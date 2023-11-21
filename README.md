@@ -7,5 +7,11 @@ Bu proje, yazılım geliştirme laboratuvarı dersi için yapılmış AR (Augmen
 
 <br>
 
-Sırasıyla uygulama ekran görüntülerindne bahsetmek gerekirse 1.Görüntü uygulamaya giriş yaptığınızda sizi karşılayan "Ana Ekran" kısmı. Burada 8 gezegen ve 1 de tüm güneş sisteminin resimleri var. Bunlara tıklandığında sizleri ilgili sayfalra yönlendiriyor.
+🖊️-Sırasıyla uygulama ekran görüntülerindne bahsetmek gerekirse 1.Görüntü uygulamaya giriş yaptığınızda sizi karşılayan "Ana Ekran" kısmı. Burada 8 gezegen bir de tüm güneş sisteminin resimi bulunmakta. Bunlara tıklandığında ilgili sayfalara yönlendirme sağlanıyor.
+
+🖊️-2. sıradaki resimde örnek olarak dünyaya tıklnamıştır. Dünya gezegeninin ve uydusu Ay'ın 3 boyutlu ve animasyonlu görüntüsü getirilir. Diğer gezegenlere tıklandığında da aynı olay gerçekleşir.
+
+🖊️-3. sıradaki resimde gezegenlere tıklandığında çıkan information popup boxlar gösterilmiştir. Kullanıcıya bilgi verme amacı güder. Her gezegen için bilgilendirme kutusu geçerlidir.
+
+🖊️-4. sıradaki resimde tüm güneş sisteminin 3 boyutlu ve animasyonlu bir modeli gösterilmiştir. Her gezegene click eventi atanmış ve tıklanınca ilgili gezegenin sayfasına yönelndirilmesi sağlanmıştır.
 
