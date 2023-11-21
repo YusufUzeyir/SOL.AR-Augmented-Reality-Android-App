@@ -15,3 +15,5 @@ Bu proje, yazılım geliştirme laboratuvarı dersi için yapılmış AR (Augmen
 
 🖊️-4. sıradaki resimde tüm güneş sisteminin 3 boyutlu ve animasyonlu bir modeli gösterilmiştir. Her gezegene click eventi atanmış ve tıklanınca ilgili gezegenin sayfasına yönelndirilmesi sağlanmıştır.
 
+<h5>Uygulama akış şeması bu şekildedir.⬇️</h25>
+
