@@ -24,4 +24,18 @@ Bu proje, yazılım geliştirme laboratuvarı dersi için yapılmış AR (Augmen
 ![SOL AR AKIŞ DİYAGRAMI (1)](https://github.com/YusufUzeyir/SOL.AR-Augmented-Reality-Android-App/assets/92249669/7dff9241-fa19-4670-a4d5-4668ce1a1656)
 
 
+<h2>Kullanılan Kaynaklar↙️</h2>
 
+- [Unity Arcore Eklentisi](https://docs.unity3d.com/Packages/com.unity.xr.arcore@4.2/manual/)
+
+- [Git Hub Linki](https://github.com/sketchfab/unity-plugin/releases/tag/1.2.1)
+
+- [Unity İçin AR eklentisi](https://developers.google.com/ar/develop/unity-arf/getting-started-ar-foundation?hl=tr)
+
+- [Unity ARcore Uzantılarının Kullanımı](https://developers.google.com/ar/develop/unity-arf/getting-started-extensions?hl=tr)
+
+- [Unity AR'yi Etkinleştirme](https://developers.google.com/ar/develop/unity-arf/enable-arcore?hl=tr)
+
+- [Unity Başlangıç Öğrenim Kiti](https://learn.unity.com/tutorial/january-18-intro-to-ar)
+
+- [Unity Kamera Yapılandırması](https://developers.google.com/ar/develop/unity-arf/camera-configs?hl=tr)
