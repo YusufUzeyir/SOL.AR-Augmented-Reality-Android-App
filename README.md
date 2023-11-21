@@ -21,3 +21,6 @@ Bu proje, yazılım geliştirme laboratuvarı dersi için yapılmış AR (Augmen
 
 <h2>Uygulama akış şeması↙️</h2>
 
+![Akış Diyagramı](https://github.com/YusufUzeyir/SOL.AR-Augmented-Reality-Android-App/assets/92249669/29ee3f96-5db6-46ff-a86b-560a643cd0f2)
+
+
