@@ -1,6 +1,6 @@
 # SOL.AR-Augmented-Reality-Android-App-With-Unity
 
-Bu proje, yazılım geliştirme laboratuvarı dersi için yapılmış AR (Augmented Reality) teknolojisi ve Google Arore eklentisi kullanan android tabanlı bir mobil uygulamadır. [Uygulama APK dosyası](https://drive.google.com/file/d/1q1V4_9FQ9YbJ_uQM_imS7OWpILc524M-/view?usp=sharing)
+Bu proje, yazılım geliştirme laboratuvarı dersi için yapılmış AR (Augmented Reality) teknolojisi ve Google Arore eklentisi kullanan android tabanlı bir mobil uygulamadır.
 
 <h2>Uygulama ekran görüntüleri↙️</h2>
 
